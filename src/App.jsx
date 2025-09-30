@@ -2,7 +2,7 @@
 
 
 import React, { useState, useContext, useMemo, Suspense, lazy } from "react";
-import { UserContext, UserProvider } from "./context/UserContext"; 
+import { UserContext, UserProvider } from "./context/userContext"; 
 import SearchBar from "./components/SearchBar";
 import "./App.css";
 
